@@ -11,7 +11,8 @@
 
 # 程式碼準備與部署
 
-
+程式碼匯入
+pip3 install -r requirements.txt
 
 # 構建程式碼
 
