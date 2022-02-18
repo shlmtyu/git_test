@@ -17,7 +17,7 @@
 
 ```
 gcloud config set project YOUR-PROJECT-ID
-gcloud builds submit  --tag gcr.io/$GOOGLE_CLOUD_PROJECT/ncu-bot-dev:0.0.1
+gcloud builds submit  --tag gcr.io/$GOOGLE_CLOUD_PROJECT/meat-bot-dev:0.0.1
 ```
 
 # 部署
