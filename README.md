@@ -11,16 +11,6 @@
 
 # 程式碼準備與部署
 
-複製下列網址，並開啟。
-
-https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https%3A%2F%2Fgithub.com%2FBingHongLi%2Fncu_gcp_ai_project&cloudshell_open_in_editor=README.md&cloudshell_workspace=.
-
-# 指定教材資料夾為工作目錄
-
-# 將訓練好的模型放入 converted_savedmodel資料夾
-
-
-# 將要回應的json放入line_message_json資料夾
 
 
 # 構建程式碼
